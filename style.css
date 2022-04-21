@@ -1,0 +1,21 @@
+.container{
+    margin-left: 18%;
+    margin-right: 20%;
+}
+.card{
+    margin: 50px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px;
+}
+.card-body{
+    margin: 5%;
+}
+.card-button{
+  height: 50px;
+  width: 120px;
+  margin-left: 40%;
+}
+.sp-container{
+    margin-top: 30px;
+}
